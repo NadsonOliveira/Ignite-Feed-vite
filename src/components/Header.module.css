@@ -1,0 +1,15 @@
+.headerIgnite{
+  display: flex;
+  background-color: var(--gray-800);
+  padding: 1.25rem 0;
+  justify-content: center;
+}
+
+.headerIgnite img {
+  height: 2rem;
+}
+.headerIgnite strong{
+  display: flex;
+
+}
+
