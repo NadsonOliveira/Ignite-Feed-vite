@@ -13,7 +13,7 @@ export function Sidebar() {
         <div className={styles.profile}>
           <img
             className={styles.avatar}
-            src="https://lh3.googleusercontent.com/a-/AOh14GjAnDEZYzzh5DfefoHPVVXdOUYDzcld0d7Yqz-w=s432-p-rw-no"
+            src="https://lh3.googleusercontent.com/a-/AOh14GjAnDEZYzzh5DfefoHPVVXdOUYDzcld0d7Yqz-w=s288-p-rw-no"
           />
           <strong>Nadson Oliveira</strong>
           <span>web Developer</span>
